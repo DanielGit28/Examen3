@@ -3,4 +3,4 @@ Componentes
 Examen 3
 Daniel Zúñiga Rojas
 
-Repositorio link: https://github.com/DanielGit28/LaboratorioGraphQL
+Repositorio link: https://github.com/DanielGit28/Examen3
